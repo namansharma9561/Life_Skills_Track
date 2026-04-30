@@ -53,7 +53,7 @@ A browser converts HTML, CSS, and JavaScript into a visible webpage through seve
 This sequence transforms your code into the interactive visual experience you see when you visit a website. Changes to styles or the DOM after the initial render can trigger a recalculation of styles, layout, and painting (known as reflows and repaints), which can impact performance.
 
 ## References
-[1] https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969
+[1] https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work
 
 [2] https://www.browserstack.com/guide/dom-in-web-development
 
