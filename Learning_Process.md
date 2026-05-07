@@ -21,7 +21,7 @@ The Feynman Technique is a learning method where you explain a concept in simple
 
 ### Diffused Mode
 - Relaxed, free-flow thinking.
-- Brain connects ideas in the background.
+- The Brain connects ideas in the background.
 - Happens during rest, walking, or doing something casual.
 - Helps with creativity and understanding difficult topics.
 
